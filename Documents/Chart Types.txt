@@ -1,0 +1,25 @@
+
+	Chart Type	-	Purpose
+
+	Pie Chart	-	Showing Proportions of a data point to the Whole
+
+	Line Chart	-	Showing Trends of a metric over time
+					(Time series)
+
+	Dual Line Chart	-	Adding Multiple Metrics side-by-side
+
+	Bar Chart	-	Comparing a metric across categories
+
+	Histogram	-	Showing distribution of a data
+
+	Scatterplot	-	Showing relationship of multiple variables
+
+	Bullet Graph	-	Showing Performance of a metric again goal
+
+	Gantt Bar	-	Showing things in use over time
+
+	Heat Map	-	Showing how variables are concentrated and finding hot-spots
+
+	Box & Whisker
+	(Boxplot)	-	Showing distribution of set of data
+
